@@ -1,0 +1,2 @@
+Prefix plugins/KMerGenie/example
+Plugin KMerGenie inputfile parameters.txt outputfile histogram
