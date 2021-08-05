@@ -1,4 +1,4 @@
-# Trimmomatic
+# KMerGenie
 # Language: C++
 # Input: TXT
 # Output: Prefix
