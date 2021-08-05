@@ -7,7 +7,7 @@
 
 PluMA plugin to estimate an optimal K-Mer size for genome assembly
 given files for forward and reverse reads, a lower and upper bound,
-and step size.
+and step size, using KMerGenie (Chikhi and Medvedev, 2014)
 
 The plugin accepts as input a TXT file of tab-delimited keyword value pairs,
 with the following keywords:
